@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# 오픈소스 과제 저장소
 
 _오픈소스 과제를 위하여 만들어진 저장소입니다._
 
